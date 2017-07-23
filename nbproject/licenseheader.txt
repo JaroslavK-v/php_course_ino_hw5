@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Jaroslav Kulikov for ino_php_cource
+${licensePrefix}2017
+<#if licenseLast??>
+${licenseLast}
+</#if>
